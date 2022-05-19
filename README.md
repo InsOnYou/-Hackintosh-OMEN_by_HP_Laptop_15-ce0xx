@@ -1,7 +1,7 @@
-# [Hackintosh] OMEN_by_HP_Laptop_15-ce0xx
+# [Hackintosh] OMEN_by_HP_Laptop_15-ce0xx (Forked from t-shao)
 EFI bootloader (OpenCore) configuration for OMEN by HP Laptop 15-ce0xx
 
-OpenCore version: 0.6.7
+OpenCore version: 0.6.7 ➡️ 0.7.5
 
 ## Specs
 | Model | OMEN by HP Laptop 15-ce007tx           |
@@ -18,7 +18,7 @@ OpenCore version: 0.6.7
 
 ## Progress
 ### System Support
-- Windows 10 and up to macOS Big Sur 11.2.3 (my current setup)
+- Windows 10 and up to macOS Monterey 12.3 (my current setup)
 - Others are not tested, feedback is welcome.
 
 ### Hardware Functionality
